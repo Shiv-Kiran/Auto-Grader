@@ -1,0 +1,25 @@
+https://ryanstutorials.net/bash-scripting-tutorial/ - For syntax regarding variables, loops and arithmetic in bash.
+
+https://rakeshjain-devops.medium.com/download-files-and-directories-from-web-using-curl-and-wget-9217bc2e34c9 and man wget for syntax regarding wget (Options like -nH, -r, -R, --cut-dirs and ignoring files with a particular extension like .html,tmp).
+
+https://linuxconfig.org/how-to-use-arrays-in-bash-script/ - Regarding the usage of arrays in bash and basic array operations like looping through an array, adding elements to an array.
+
+https://www.cyberciti.biz/faq/unix-howto-read-line-by-line-from-file/ - Reading a file in bash.
+
+https://ngelinux.com/brief-explanation-string-and-array-slicing-in-bash-shell-linux/ - Slicing a string(Used for temp in organise.sh).
+
+https://stackoverflow.com/questions/27388136/send-the-unix-output-to-a-csv-file - Printing the content to a file in bash.(Used in evaluate.sh to print to marksheet.csv and distribution.txt).
+
+https://stackoverflow.com/questions/7442417/how-to-sort-an-array-in-bash - Sorting an array(Used in evaluate.sh)'
+
+https://stackoverflow.com/questions/40193122/how-to-sort-string-array-in-descending-order-in-bash - Sort an array in reverse order(Learnt about sort -r used in evaluate.sh).
+
+https://unix.stackexchange.com/questions/397655/two-files-comparison-in-bash-script - For the cmp command used in evaluate.sh
+
+https://stackoverflow.com/questions/28521938/how-to-conceal-a-segmentation-fault-in-a-bash-script - For concealing segmentation fault in evaluate.sh
+
+https://stackoverflow.com/questions/21365251/how-to-run-wget-in-background-for-an-unattended-download-of-files - For turning off widget's output in download.sh
+
+https://www.geeksforgeeks.org/shell-script-to-show-names-of-all-sub-directories-present-in-current-directory/ -For finding downloaded directory in download.sh
+
+https://www.youtube.com/watch?v=e7BufAVwDiM&t=9657s - For bash script idea and syntax
